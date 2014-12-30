@@ -12,4 +12,12 @@ leetcode
 
 48 Rotate Image
 
+118 Pascal's Triangle
+
+119 Pascal's Triangle2
+
+1 Two Sum
+
+
+
 
