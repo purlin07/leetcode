@@ -1,7 +1,7 @@
 class SortColors
 {
 	public static void main(String[] args){
-		int[] test = {1,0,2,1,0,2};	
+		int[] test = {0,1,2,0,1,2};	
 		print(sortColors(test));
 	}
 
